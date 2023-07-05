@@ -1,4 +1,4 @@
-# Commands
+# Command list
 ```markdown
 ## git diff 
 View the changes you have made to the file
