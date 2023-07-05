@@ -33,7 +33,7 @@ Reapply commits on top of another base tip
 ## git init
 Initialize a local Git Repository
 
-## fit add / git add.
+## git add / git add.
 Add one or more filer to staging area
 
 ## git commit -m "commit message"
