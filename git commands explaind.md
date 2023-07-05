@@ -12,7 +12,7 @@ Tell git whi you are by configureing the author name
 ## git config -global user-email name@email.com
 Tell git Who you are by configurung the author email id
 
-##git clone 
+## git clone 
 Creates a git repository copy from remate source
 
 ## git remote add origin <server>
