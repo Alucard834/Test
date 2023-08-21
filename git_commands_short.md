@@ -13,7 +13,7 @@ git config --global user.name "Name"
 ```
 
 ```markdown
-git config --global user-email name@email.com
+git config --global user.email name@email.com
 ```
 
 ```markdown
