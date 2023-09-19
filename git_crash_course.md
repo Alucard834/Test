@@ -22,8 +22,9 @@ A: The managgment of changes to documents, computer programs, large web sites, a
 - oull -> Download changes from remote repo to your local machine, the opposite of push
 
 # SSH KEY
-- 
-
+# Gernerirenen eines SSH KEY
+- ssh-keygen -b rsa -b 4096 -C "Email@beispiel.com
+- danach namen der KeyDatei anlegen
 
 # Altäglich Commands
 - git staus //um sich die arbeiten und veränderungen der Dukumente in diesem ordener anzeigen zu lassen
