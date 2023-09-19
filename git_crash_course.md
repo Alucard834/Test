@@ -23,7 +23,7 @@ A: The managgment of changes to documents, computer programs, large web sites, a
 
 # SSH KEY
 # Gernerirenen eines SSH KEY
-- ssh-keygen -b rsa -b 4096 -C "Email@beispiel.com
+- ssh-keygen -t rsa -b 4096 -C "Email@beispiel.com
 - danach namen der KeyDatei anlegen
 
 # Altäglich Commands
